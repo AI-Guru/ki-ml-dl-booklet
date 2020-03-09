@@ -1,5 +1,3 @@
-- [] wenn fertig Slides machen
-
 ![](medien/AI-Guru-Logo.png)
 
 # Künstliche Intelligenz, Machine Learning, Deep Learning - Herausforderungen und Chancen für Ihr Unternehmen!
