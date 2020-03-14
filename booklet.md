@@ -59,7 +59,7 @@ Eine wichtige Unterscheidung ist die zwischen schwacher und Starker KI.
 
 ### 1.2. Bereiche der Künstlichen Intelligenz
 
-https://de.wikipedia.org/wiki/Künstliche_Intelligenz#Methoden
+
 
 Aktuell redet man von fünf Säulen der Künstlichen Intelligenz. Diese sind:
 
@@ -69,9 +69,11 @@ Aktuell redet man von fünf Säulen der Künstlichen Intelligenz. Diese sind:
 - *Optimierungsmethoden:* Beispiele sind heuristische Suchverfahren und evolutionäre Algorithmen.
 - *Approximationsmethoden:* Maschinelles Lernen, insbesondere Deep Learning.
 
-Mit Machine Learnind und insbesondere Deep Learning haben wir heute die größte Reichweite.
+Mit Machine Learning und insbesondere Deep Learning haben wir heute die größte Reichweite.
 
 **Bemerkung:** Ab jetzt meinen wir mit Künstliche Intelligenz nur Maschinelles Lernen.
+
+[Quelle](https://de.wikipedia.org/wiki/Künstliche_Intelligenz#Methoden)
 
 
 ### 1.3. Machine Learning
@@ -119,7 +121,7 @@ Künstliche Neuronale Netze sind Netzwerke aus Künstlichen Neuronen. Zur Histor
 - Künstliche Neuronale Netze sind angelehnt an biologische Neuronale Netze. Sie sind aber nur ein Modell.
 - Künstliche Neuronale Netze kamen beinahe zeitgleich mit den ersten programmierbaren Computern auf.
 
-Mathematisch gesehen bilden Neuronale Netze Eingabedaten über eine Vielzahl mathematischer Operationen auf Ausgabedaten ab. Die mathematischen Operationen sind variabel und werden in einer sogenannten Trainingsphase gerlernt.
+Mathematisch gesehen bilden Neuronale Netze Eingabedaten über eine Vielzahl mathematischer Operationen auf Ausgabedaten ab. Die mathematischen Operationen sind variabel und werden in einer sogenannten Trainingsphase gelernt.
 
 ![](medien/ANN.png)
 
